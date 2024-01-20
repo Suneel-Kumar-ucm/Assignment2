@@ -1,5 +1,5 @@
-
-
+#Assignment2
+drive link:https://drive.google.com/file/d/18c69QYZCpVKNZRXbZBbrN83FFsy_wypS/view?usp=drive_link
 
 
 1. Write a program that takes two strings from the user: first_name, last_name. Pass these variables to
