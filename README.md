@@ -33,3 +33,6 @@ Nested Interactive loop.
 List comprehensions Example: L1: [150,155, 145, 148] Output: [68.03, 70.3, 65.77, 67.13]
 
 
+![image](https://github.com/Suneel-Kumar-ucm/Assignment2/assets/156639138/3bc64a88-0e7d-4312-a6f9-d8cab6f833f1)
+
+
